@@ -11,7 +11,7 @@ namespace NugetDemo
     {
         static void Main(string[] args)
         {
-            //this invokes the library
+            //this invokes the libr
             Console.WriteLine((new Greetings()).msgInEnglish());
             Console.Read();
         }
