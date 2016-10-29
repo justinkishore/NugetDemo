@@ -15,5 +15,6 @@ namespace NugetDemo
             Console.WriteLine((new Greetings()).msgInEnglish());
             Console.Read();
         }
+                
     }
 }

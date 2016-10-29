@@ -14,6 +14,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{871984
 EndProject
 Project("{930C7802-8A8C-48F9-8165-68863BCCD9DD}") = "MSI", "MSI\MSI.wixproj", "{8A91000A-EE0C-40C6-A09A-A9C3EE252EFA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNugetDemo", "TestNugetDemo\TestNugetDemo.csproj", "{522F88D3-6813-40AC-8CDF-DA8A4FB1C8C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,6 +46,16 @@ Global
 		{8A91000A-EE0C-40C6-A09A-A9C3EE252EFA}.Release|Mixed Platforms.Build.0 = Release|x86
 		{8A91000A-EE0C-40C6-A09A-A9C3EE252EFA}.Release|x86.ActiveCfg = Release|x86
 		{8A91000A-EE0C-40C6-A09A-A9C3EE252EFA}.Release|x86.Build.0 = Release|x86
+		{522F88D3-6813-40AC-8CDF-DA8A4FB1C8C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{522F88D3-6813-40AC-8CDF-DA8A4FB1C8C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{522F88D3-6813-40AC-8CDF-DA8A4FB1C8C2}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{522F88D3-6813-40AC-8CDF-DA8A4FB1C8C2}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{522F88D3-6813-40AC-8CDF-DA8A4FB1C8C2}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{522F88D3-6813-40AC-8CDF-DA8A4FB1C8C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{522F88D3-6813-40AC-8CDF-DA8A4FB1C8C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{522F88D3-6813-40AC-8CDF-DA8A4FB1C8C2}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{522F88D3-6813-40AC-8CDF-DA8A4FB1C8C2}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{522F88D3-6813-40AC-8CDF-DA8A4FB1C8C2}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
