@@ -11,7 +11,7 @@ namespace TestNugetDemo
         [TestMethod]
         public void TestMethod1()
         {
-            string expected = "Hello World";
+            string expected = "Hello World!";
             string actual = (new Greetings()).msgInEnglish();
             Assert.AreEqual(expected, actual, "Greeting message did not match!");
         }
